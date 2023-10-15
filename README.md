@@ -4,5 +4,5 @@ MLflow stands as an open-source framework designed to streamline the entire mach
 Requirements:
 
 Python 3.x must be installed on your system.
-Pip must be installed on your system.
+Pip must be installed on your system..
 
